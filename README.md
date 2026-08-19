@@ -43,4 +43,4 @@ A Power BI dashboard analyzing job-market trends across companies, cities, state
 
 - `LinkedIn_Jobs_Data.csv` — Source dataset
 - `LinkedIN Analysis.pbix` — Power BI project
-- `LinkedIn_Jobs_Dashboard.png` — Dashboard preview
+- `LinkedIn_Analysis.JPG` — Dashboard preview
