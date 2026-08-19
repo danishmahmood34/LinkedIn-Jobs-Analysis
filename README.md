@@ -31,7 +31,7 @@ A Power BI dashboard analyzing job-market trends across companies, cities, state
 
 ## 📈 Power BI Dashboard
 
-![LinkedIn Jobs Dashboard](LinkedIn_Analysis.JPG)
+![LinkedIn Jobs Dashboard](LinkedIN_Analysis.JPG)
 
 ## 💡 Business Recommendations
 
@@ -43,4 +43,4 @@ A Power BI dashboard analyzing job-market trends across companies, cities, state
 
 - `LinkedIn_Jobs_Data.csv` — Source dataset
 - `LinkedIN Analysis.pbix` — Power BI project
-- `LinkedIn_Analysis.JPG` — Dashboard preview
+- `LinkedIN_Analysis.JPG` — Dashboard preview
